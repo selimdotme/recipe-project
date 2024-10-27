@@ -1,0 +1,92 @@
+[
+    {
+        "recipe_img": "https://i.ibb.co.com/kDwCGV3/0cec765677a078eef4e586861261827d.jpg",
+        "recipe_id": "001",
+        "recipe_name": "Spicy Chicken Stir-Fry",
+        "short_description": "A quick and spicy stir-fry with chicken and vegetables.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g bell peppers", "150 g broccoli"],
+        "preparing_time": "30 min",
+        "calories": "320 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/THG6DS5/a057afe4ded4705c350f58f5be2521af.jpg",
+        "recipe_id": "002",
+        "recipe_name": "Mediterranean Quinoa Salad",
+        "short_description": "A refreshing salad packed with Mediterranean flavors.",
+        "ingredients": ["200 g quinoa", "100 g cherry tomatoes", "50 g feta cheese", "30 ml olive oil"],
+        "preparing_time": "20 min",
+        "calories": "250 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/H7FfWLM/ab019ae53ebdab9e2e03e257445c308f.jpg",
+        "recipe_id": "003",
+        "recipe_name": "Creamy Mushroom Pasta",
+        "short_description": "Rich and creamy pasta dish with mushrooms.",
+        "ingredients": ["250 g pasta", "400 g mushrooms", "200 ml cream", "50 g parmesan cheese"],
+        "preparing_time": "25 min",
+        "calories": "400 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/p2CvYfN/b3f5d0100130cde18f9b95f48ae4f2b7.jpg",
+        "recipe_id": "004",
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A colorful mix of fresh vegetables stir-fried to perfection.",
+        "ingredients": ["200 g mixed vegetables", "100 g tofu", "50 ml soy sauce", "30 ml sesame oil"],
+        "preparing_time": "15 min",
+        "calories": "180 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/9N3pL2t/c4f4ab57c6fda53b6fedf898ce7ef769.jpg",
+        "recipe_id": "005",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Flavorful beef tacos topped with fresh ingredients.",
+        "ingredients": ["300 g ground beef", "4 taco shells", "100 g lettuce", "50 g cheese"],
+        "preparing_time": "35 min",
+        "calories": "450 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/TYrxbWj/d0a7a24f3de7238521fd4bef5e41d6b8.jpg",
+        "recipe_id": "006",
+        "recipe_name": "Chocolate Banana Smoothie",
+        "short_description": "A delicious smoothie with chocolate and banana.",
+        "ingredients": ["2 bananas", "200 ml almond milk", "30 g cocoa powder", "10 g honey"],
+        "preparing_time": "5 min",
+        "calories": "200 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/pjFMqnG/d54d5a1ea7abfae419682a5f205ed245.jpg",
+        "recipe_id": "007",
+        "recipe_name": "Caprese Salad",
+        "short_description": "A simple salad with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": ["200 g tomatoes", "150 g mozzarella", "30 g basil", "20 ml balsamic vinegar"],
+        "preparing_time": "10 min",
+        "calories": "150 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/KxrP8W9/e020a5685f8832e7e95a120fb4f79af6.jpg",
+        "recipe_id": "008",
+        "recipe_name": "Baked Salmon with Herbs",
+        "short_description": "A healthy baked salmon dish seasoned with fresh herbs.",
+        "ingredients": ["300 g salmon", "10 g dill", "20 ml lemon juice", "30 g asparagus"],
+        "preparing_time": "25 min",
+        "calories": "350 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/mBZyFS5/e348ca7d52057416fa49f3d226e4639b.jpg",
+        "recipe_id": "009",
+        "recipe_name": "Garlic Butter Shrimp",
+        "short_description": "Succulent shrimp sautéed in garlic butter.",
+        "ingredients": ["400 g shrimp", "50 g butter", "4 cloves garlic", "30 ml lemon juice"],
+        "preparing_time": "20 min",
+        "calories": "300 calories"
+    },
+    {
+        "recipe_img": "https://i.ibb.co.com/gtMqKhM/f1cd36fd35455c5577da5d4d55d05cea.jpg",
+        "recipe_id": "010",
+        "recipe_name": "Vegetable Curry",
+        "short_description": "A hearty vegetable curry packed with spices.",
+        "ingredients": ["300 g mixed vegetables", "200 ml coconut milk", "30 g curry powder", "100 g chickpeas"],
+        "preparing_time": "40 min",
+        "calories": "320 calories"
+    }
+]
